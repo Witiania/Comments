@@ -1,0 +1,15 @@
+{
+    "name": "witiania/comments",
+    "autoload": {
+        "psr-4": {
+            "Witiania\\Comments\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Witiania",
+            "email": "witiania@gmail.com"
+        }
+    ],
+    "require": {}
+}
